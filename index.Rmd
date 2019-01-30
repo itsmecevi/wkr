@@ -1,0 +1,87 @@
+---
+title: "WKR-DE"
+subtitle: "Wahrscheinlichkeitsrechnung mit R auf Deutsch"
+author: "Cevi Herdian, B. Sc"
+date: "30.01.2019"
+output:
+  html_notebook:
+    code_folding: hide
+    highlight: pygments
+    theme: cosmo
+    toc: yes
+    toc_depth: 5
+    toc_float: yes
+  html_document:
+    df_print: paged
+    toc: yes
+    toc_depth: '5'
+  pdf_document:
+    toc: yes
+    toc_depth: '5'
+  word_document:
+    toc: yes
+    toc_depth: '5'
+---
+
+
+**Note:**
+
+-An R Notebook is an R Markdown document with chunks that can be executed independently and interactively, with output visible immediately beneath the input.
+
+-Notebook output are available as HTML, PDF, Word, or Latex. 
+
+-This Notebook as HTML is preferably open with Google Chrome.
+
+-R-Code can be extracted as Rmd file under the button "Code" in the notebook.
+
+-This Notebook using iterative development. It means the process starts with a simple implementation of a small set of idea requirements and iteratively enhances the evolving versions until the complete version is implemented and perfect.
+
+
+
+![](prob.jpg)
+
+```{r}
+
+#http://whatilearned.wikia.com/wiki/File:Normal_curve_probability.jpg
+
+```
+
+
+#Kombinatorik
+
+#Wahrscheinlichkeiten
+
+#Zufallsvariablen
+
+#Verteilungen:
+
+##1. Diskrete Verteilungen
+##2. Stetige Verteilungen
+##3. Verteilungstabellen und Anleitung zum Ablesen
+
+
+
+
+
+
+
+
+#Change log update
+
+* 30.04.2014
+* 30.01.2019
+
+<Br>
+
+#Preferences
+
+* Wahrscheinlichkeitsrechnung, Prof. Dr Beate Bergter,SS 2014, Hochschule für Technik und Wirtschaft Berlin
+* Toutenburg, H., Heumann, C. (2008). Induktive Statistik. Eine Einführung mit R und SPSS, Springer Verlag, Berlin. e-ISBN 978-3-540-77788-5 
+* https://www.statistik-nachhilfe.de/
+* https://www.crashkurs-statistik.de/
+
+<Br>
+
+#License
+
+[MIT](https://opensource.org/licenses/MIT)
